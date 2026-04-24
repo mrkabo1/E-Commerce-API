@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>E‑Commerce.API</name>
+    </assembly>
+    <members>
+        <member name="M:E_Commerce.API.Controllers.AccountController.Get">
+            <summary>
+            Get All Users (Admin Only).
+            </summary>
+        </member>
+        <member name="M:E_Commerce.API.Controllers.AccountController.Register(E_Commerce.Application.DTOs.RegisterDTO)">
+            <summary>
+            Registers a new user account.
+            </summary>
+        </member>
+        <member name="M:E_Commerce.API.Controllers.AccountController.Login(E_Commerce.Application.DTOs.LoginDTO)">
+            <summary>
+            login a exist user.
+            </summary>
+        </member>
+        <member name="M:E_Commerce.API.Controllers.AccountController.GenerateNewAccessToken(E_Commerce.Application.DTOs.TokenModel)">
+            <summary>
+            Create new Jwt Token.
+            </summary>
+        </member>
+        <member name="M:E_Commerce.API.Controllers.CartController.GetCart">
+            <summary>
+            To Get The cart of current user.
+            </summary>
+        </member>
+        <member name="M:E_Commerce.API.Controllers.CartController.AddToCart(E_Commerce.Application.DTOs.AddToCartDTO)">
+            <summary>
+            To Add to cart of Current user.
+            </summary>
+        </member>
+        <member name="M:E_Commerce.API.Controllers.CartController.UpdateCartItemQuantity(E_Commerce.Application.DTOs.AddToCartDTO)">
+            <summary>
+            To update product quantity from Cart items of the current user.
+            </summary>
+        </member>
+        <member name="M:E_Commerce.API.Controllers.CartController.RemoveProductCartItem(System.Int32)">
+            <summary>
+            To remove product from Cart items of the current user.
+            </summary>
+        </member>
+        <member name="M:E_Commerce.API.Controllers.CartController.ClearCart">
+            <summary>
+            To clear Cart of the current user.
+            </summary>
+        </member>
+        <member name="M:E_Commerce.API.Controllers.CategoriesController.Get(System.Int32,System.Int32)">
+            <summary>
+            to get all categories
+            </summary>
+        </member>
+        <member name="M:E_Commerce.API.Controllers.CategoriesController.GetById(System.Int32)">
+            <summary>
+            to get a category by id (Admin Only)
+            </summary>
+        </member>
+        <member name="M:E_Commerce.API.Controllers.CategoriesController.Create(E_Commerce.Application.DTOs.CreateCategoryDTO)">
+            <summary>
+            to create a new category (Admin Only)
+            </summary>
+        </member>
+        <member name="M:E_Commerce.API.Controllers.CategoriesController.Delete(System.Int32)">
+            <summary>
+            to delete an exist category by id  (Admin Only)
+            </summary>
+        </member>
+        <member name="M:E_Commerce.API.Controllers.CategoriesController.Update(System.Int32,E_Commerce.Application.DTOs.UpdateCategoryDTO)">
+            <summary>
+            to update an existing Category (Admin Only)
+            </summary>
+        </member>
+        <member name="M:E_Commerce.API.Controllers.OrdersController.CheckOut">
+            <summary>
+            To make checkout and create order
+            </summary>
+        </member>
+        <member name="M:E_Commerce.API.Controllers.OrdersController.GetOrders">
+            <summary>
+            To get all orders for current user.
+            </summary>
+        </member>
+        <member name="M:E_Commerce.API.Controllers.OrdersController.GetOrder(System.Int32)">
+            <summary>
+            Get a specific order by ID (Admin Only).
+            </summary>
+        </member>
+        <member name="M:E_Commerce.API.Controllers.OrdersController.UpdateOrderStatus(System.Int32,E_Commerce.Application.DTOs.UpdateOrderStatusDTO)">
+            <summary>
+            update order status (Admin Only).
+            </summary>
+        </member>
+        <member name="M:E_Commerce.API.Controllers.ProductsController.Get(System.Int32,System.Int32)">
+            <summary>
+            to get all products
+            </summary>
+        </member>
+        <member name="M:E_Commerce.API.Controllers.ProductsController.GetById(System.Int32)">
+            <summary>
+            to get a product with his id (Admin Only)
+            </summary>
+        </member>
+        <member name="M:E_Commerce.API.Controllers.ProductsController.Create(E_Commerce.Application.DTOs.CreateProductDTO)">
+            <summary>
+            to create a new product (Admin Only)
+            </summary>
+        </member>
+        <member name="M:E_Commerce.API.Controllers.ProductsController.Update(System.Int32,E_Commerce.Application.DTOs.UpdateProductDTO)">
+            <summary>
+            to update a product (Admin Only)
+            </summary>
+        </member>
+        <member name="M:E_Commerce.API.Controllers.ProductsController.Delete(System.Int32)">
+            <summary>
+            to delete a product (Admin Only)
+            </summary>
+        </member>
+    </members>
+</doc>

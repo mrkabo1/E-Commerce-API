@@ -1,0 +1,15 @@
+D:\My_Projects\E‑Commerce_Solution\E‑Commerce.Application\bin\Release\net8.0\E‑Commerce.Application.deps.json
+D:\My_Projects\E‑Commerce_Solution\E‑Commerce.Application\bin\Release\net8.0\E‑Commerce.Application.dll
+D:\My_Projects\E‑Commerce_Solution\E‑Commerce.Application\bin\Release\net8.0\E‑Commerce.Application.pdb
+D:\My_Projects\E‑Commerce_Solution\E‑Commerce.Application\bin\Release\net8.0\E-Commerce.Domain.dll
+D:\My_Projects\E‑Commerce_Solution\E‑Commerce.Application\bin\Release\net8.0\E-Commerce.Domain.pdb
+D:\My_Projects\E‑Commerce_Solution\E‑Commerce.Application\obj\Release\net8.0\E‑Commerce.Application.csproj.AssemblyReference.cache
+D:\My_Projects\E‑Commerce_Solution\E‑Commerce.Application\obj\Release\net8.0\E‑Commerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Projects\E‑Commerce_Solution\E‑Commerce.Application\obj\Release\net8.0\E‑Commerce.Application.AssemblyInfoInputs.cache
+D:\My_Projects\E‑Commerce_Solution\E‑Commerce.Application\obj\Release\net8.0\E‑Commerce.Application.AssemblyInfo.cs
+D:\My_Projects\E‑Commerce_Solution\E‑Commerce.Application\obj\Release\net8.0\E‑Commerce.Application.csproj.CoreCompileInputs.cache
+D:\My_Projects\E‑Commerce_Solution\E‑Commerce.Application\obj\Release\net8.0\E_Commer.9DE7C81D.Up2Date
+D:\My_Projects\E‑Commerce_Solution\E‑Commerce.Application\obj\Release\net8.0\E‑Commerce.Application.dll
+D:\My_Projects\E‑Commerce_Solution\E‑Commerce.Application\obj\Release\net8.0\refint\E‑Commerce.Application.dll
+D:\My_Projects\E‑Commerce_Solution\E‑Commerce.Application\obj\Release\net8.0\E‑Commerce.Application.pdb
+D:\My_Projects\E‑Commerce_Solution\E‑Commerce.Application\obj\Release\net8.0\ref\E‑Commerce.Application.dll

@@ -1,0 +1,12 @@
+D:\My_Projects\E‑Commerce_Solution\E-Commerce.Domain\bin\Release\net8.0\E-Commerce.Domain.deps.json
+D:\My_Projects\E‑Commerce_Solution\E-Commerce.Domain\bin\Release\net8.0\E-Commerce.Domain.dll
+D:\My_Projects\E‑Commerce_Solution\E-Commerce.Domain\bin\Release\net8.0\E-Commerce.Domain.pdb
+D:\My_Projects\E‑Commerce_Solution\E-Commerce.Domain\obj\Release\net8.0\E-Commerce.Domain.csproj.AssemblyReference.cache
+D:\My_Projects\E‑Commerce_Solution\E-Commerce.Domain\obj\Release\net8.0\E-Commerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Projects\E‑Commerce_Solution\E-Commerce.Domain\obj\Release\net8.0\E-Commerce.Domain.AssemblyInfoInputs.cache
+D:\My_Projects\E‑Commerce_Solution\E-Commerce.Domain\obj\Release\net8.0\E-Commerce.Domain.AssemblyInfo.cs
+D:\My_Projects\E‑Commerce_Solution\E-Commerce.Domain\obj\Release\net8.0\E-Commerce.Domain.csproj.CoreCompileInputs.cache
+D:\My_Projects\E‑Commerce_Solution\E-Commerce.Domain\obj\Release\net8.0\E-Commerce.Domain.dll
+D:\My_Projects\E‑Commerce_Solution\E-Commerce.Domain\obj\Release\net8.0\refint\E-Commerce.Domain.dll
+D:\My_Projects\E‑Commerce_Solution\E-Commerce.Domain\obj\Release\net8.0\E-Commerce.Domain.pdb
+D:\My_Projects\E‑Commerce_Solution\E-Commerce.Domain\obj\Release\net8.0\ref\E-Commerce.Domain.dll
